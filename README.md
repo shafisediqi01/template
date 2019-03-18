@@ -2,4 +2,4 @@
 *my first github project*
 **Bold text**
 
-[visit our website](www.shafisediqi.dx.am)
+[visit our website](http://www.shafisediqi.dx.am)
