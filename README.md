@@ -1,3 +1,3 @@
 ### Shafi Sediqi First project Repository
-* my first github project
-** Bold text
+* my first github project *
+** Bold text **
